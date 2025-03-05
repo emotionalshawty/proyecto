@@ -5,6 +5,7 @@ public class Main {
         method2();
         method3();
         method4();
+        method5();
     }
     private static void method1(){
 
@@ -16,6 +17,9 @@ public class Main {
 
     }
     private static void method4(){
+
+    }
+    private static void method5(){
 
     }
 }
